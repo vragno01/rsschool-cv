@@ -32,4 +32,16 @@ function meanScore(...numbers) {
 }
 ```
 
+# **Experience**
+===
+* Shop assistant HEINEMANN DUTY FREE
 
+# **Education**
+===
+* National University of Life and Environmental Sciences (Economy)
+* Udemy (JS)
+
+# **English**
+
+* B1 (KET certificate, was living abroad for more than 1 year)
+* 
