@@ -1,6 +1,6 @@
 # **Vadym Serapionov**
 ===
-# ** Contacts Info:**
+# **Contacts Info:**
 ===
  Email: vadimgames0077@gmail.com
  tel.: +380684969735
@@ -42,6 +42,5 @@ function meanScore(...numbers) {
 * Udemy (JS)
 
 # **English**
-
+===
 * B1 (KET certificate, was living abroad for more than 1 year)
-* 
